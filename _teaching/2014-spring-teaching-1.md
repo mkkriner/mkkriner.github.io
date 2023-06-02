@@ -1,20 +1,12 @@
 ---
-title: "Teaching experience 1"
 collection: teaching
-type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+GOVT 1101: Peacekeeping and Peacebuilding
+Spring 2022
+Cornell University, Government Department
+Ithaca, NY ,USA
+[Syllabus](/files/GOVT1101-102)
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+[here](/files/Kriner_CV.pdf)
