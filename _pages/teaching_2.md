@@ -10,7 +10,7 @@ GOVT 1101: Peacekeeping and Peacebuilding \
 Spring 2022 \
 Cornell University, Government Department \
 Ithaca, NY ,USA \
-[Syllabus](/files/GOVT1101-102)
+[Syllabus](/files/GOVT1101-102.pdf)
 
 ### Teaching Assistant
 GOVT 2274: Global Studies Gateway \
