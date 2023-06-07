@@ -14,19 +14,16 @@ Ithaca, NY ,USA \
 
 ### Teaching Assistant
 GOVT 2274: Global Studies Gateway \
-Fall 2020
-Professor Rachel Beatty Riedl
+Fall 2020, Professor Rachel Beatty Riedl \
 Cornell University, Government Department \
 Ithaca, NY, USA 
 
 GOVT 2041: Electoral (mal)practice \
-Spring 2020
-Professor Bryce Corrigan
+Spring 2020, Professor Bryce Corrigan \
 Cornell University, Government Department \
 Ithaca, NY, USA 
 
 GOVT 1817: Making Sense of World Politics \
-Fall 2019
-Professor Sarah E. Kreps
+Fall 2019, Professor Sarah E. Kreps \
 Cornell University, Government Department \
 Ithaca, NY, USA 
