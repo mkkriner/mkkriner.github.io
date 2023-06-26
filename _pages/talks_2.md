@@ -5,6 +5,11 @@ permalink: /talks_2/
 author_profile: true
 ---
 
+### Academic Council on the United Nations System
+Annual Conference- Washington, D.C., June 2023
+
+- "Autocrats Keeping Peace? An Analysis of the Impact of Autocratic T/PCCs on Peace Operations"
+
 ### UCL Conflict and Change PhD Workshop
 London, UK, February 2023 
 
