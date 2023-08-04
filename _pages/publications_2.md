@@ -22,9 +22,9 @@ Kriner, Michael and Christopher Way. "The Spread of Paid Sick Leave in the U.S."
 
 Kriner, Michael. "Autocrats Keeping Peace? An Analysis of the Impacts of Autocratic T/PCCs on UN Peace Operations"
 
-### In Progress
+Kriner, Michael, Cameron Mailhot, and Sabrina Karim. "When International Actors Build Police Institutions: Explaining the Determinants of International Police Assistance"
 
-Kriner, Michael, Cameron Mailhot, and Sabrina Karim. "When Foreigners Build States: International Police Assistance"
+### In Progress
 
 Kriner, Michael, Cameron Mailhot, Roya Izadi, Laura Huber, Lindsey Pruett, Priscilla Torres, Sara Fox, and Sabrina Karim. "Determinants of Civilian Protection in UN Peace Operations"
 
