@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications"
+title: "Papers"
 permalink: /publications_2/
 author_profile: true
 ---
@@ -14,18 +14,15 @@ Mailhot, Cameron, **Michael Kriner**, and Sabrina Karim. (2022). "International 
 
 Olsson, Louise, Megan Shannon, Anna Marie Obermeier, Birthe Einen, Ida Rødningen, Nora Stai, Emily Jackson, and Andreas Forø Tollefsen, Sabrina Karim, Taylor Vincent, Cameron Mailhot, Priscilla Torres, **Michael Kriner** (2022) "Norwegian Armed Forces MOWIP Report" Geneva Centre for Security Sector Governance [link](https://www.dcaf.ch/norwegian-armed-forces-mowip-report).
 
-### Revise and Resubmit
+### Accepted
+Kriner, Michael and Christopher Way. "The Spread of Paid Sick Leave in the U.S." at *State Politics and Policy Quarterly*
 
-Kriner, Michael and Christopher Way. "The Spread of Paid Sick Leave in the U.S."
 
-### Under Review
+### In Progress
+Kriner, Michael. "Autocrats Keeping Peace? Autocratic Contributions to UN Peace Operations and Civilian Protection" Updated [July 2024](/files/autocrats_unpo.pdf)
 
-Kriner, Michael. "Autocrats Keeping Peace? An Analysis of the Impacts of Autocratic T/PCCs on UN Peace Operations"
+Kriner, Michael, Cameron Mailhot, Roya Izadi, Laura Huber, Lindsey Pruett, Priscilla Torres, Sara Fox, and Sabrina Karim. "The Domestic Benefits of UN Peacekeeping Homecoming: How Deployment Diffuses Norms"
 
 Kriner, Michael, Cameron Mailhot, and Sabrina Karim. "When International Actors Build Police Institutions: Explaining the Determinants of International Police Assistance"
 
-### In Progress
-
-Kriner, Michael, Cameron Mailhot, Roya Izadi, Laura Huber, Lindsey Pruett, Priscilla Torres, Sara Fox, and Sabrina Karim. "Determinants of Civilian Protection in UN Peace Operations"
-
-Izadi, Roya, **Michael Kriner**, Cameron Mailhot, Lindsey Pruett, Laura Huber, Priscilla Torres, Sara Fox, and Sabrina Karim. "Explaining Tolerance for Misconduct in the Security Forces"
+Izadi, Roya, Lindsey Pruett, **Michael Kriner**, Cameron Mailhot, Laura Huber, Priscilla Torres, Sara Fox, and Sabrina Karim. "Crossing the Wall of Silence: Expalining Tolerance for Misconduct in the Security Forces"
