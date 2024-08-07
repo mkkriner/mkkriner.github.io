@@ -22,7 +22,7 @@ Michael Kriner, and Christopher Way. "The Spread of Paid Sick Leave in the U.S."
 
 
 ### In Progress
-Michael Kriner. "Autocrats Keeping Peace? Autocratic Contributions to UN Peace Operations and Civilian Protection" Updated [July 2024](/files/autocrats_unpo.pdf)
+Michael Kriner. "Autocrats Keeping Peace? Autocratic Contributions to UN Peace Operations and Civilian Protection" Updated [August 2024](/files/autocrats_pk.pdf)
 
 Michael Kriner, Cameron Mailhot, Roya Izadi, Laura Huber, Lindsey Pruett, Priscilla Torres, Sara Fox, and Sabrina Karim. "The Domestic Benefits of UN Peacekeeping Homecoming: How Deployment Diffuses Norms"
 
