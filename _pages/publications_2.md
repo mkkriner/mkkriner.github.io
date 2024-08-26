@@ -28,4 +28,4 @@ Michael Kriner, Cameron Mailhot, Roya Izadi, Laura Huber, Lindsey Pruett, Prisci
 
 Michael Kriner, Cameron Mailhot, and Sabrina Karim. "When International Actors Build Police Institutions: Explaining the Determinants of International Police Assistance"
 
-Roya Izadi, Lindsey Pruett, **Michael Kriner**, Cameron Mailhot, Laura Huber, Priscilla Torres, Sara Fox, and Sabrina Karim. "Crossing the Wall of Silence: Expalining Tolerance for Misconduct in the Security Forces"
+Roya Izadi, Lindsey Pruett, **Michael Kriner**, Cameron Mailhot, Laura Huber, Priscilla Torres, Sara Fox, and Sabrina Karim. "Crossing the Wall of Silence: Explaining Tolerance for Misconduct in the Security Forces"
