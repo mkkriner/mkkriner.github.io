@@ -82,8 +82,7 @@ analytics:
 author:
   name             : "Mike Kriner"
   avatar           : "headshot.png"
-  bio              : "PhD Candidate
-                      Cornell University"
+  bio              : "PhD Candidate"
   location         : "Boston, MA"
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
