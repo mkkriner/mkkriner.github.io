@@ -9,7 +9,7 @@ author_profile: true
 GOVT 1101: Peacekeeping and Peacebuilding \
 Spring 2022 \
 Cornell University, Government Department \
-Ithaca, NY ,USA \
+Ithaca, NY, USA \
 [Syllabus](/files/GOVT1101102.pdf)
 
 ### Teaching Assistant
