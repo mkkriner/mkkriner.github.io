@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD Candidate in the Government Department at Cornell University and a Graduate Fellow at the [Gender and the Security Sector Lab](https://www.sabrinamkarim.com/gsslab), PI Dr. Sabrina Karim.
+I am currently on administrative leave from [SAMHSA](https://www.samhsa.gov/), after joining the Agency in November 2024 and being illegally let go in February 2025. As a result, I am currently seeking employment! 
+
+I received my PhD in Government from Cornell University, where I majored in International Relations and minored in Comparative Politics. During my time at Cornell, I was also a Graduate Fellow at the [Gender and the Security Sector Lab](https://www.sabrinamkarim.com/gsslab), PI Dr. Sabrina Karim.
 
 My research is broadly in the areas of international relations and comparative politics. More specifically, my work is on UN peacekeeping/peacebuilding and foreign security assistance. My dissertation project, "Autocrats Keeping Peace? An Analysis of the Impact of Autocratic T/PCCs on UN Peace Operations," explores the impact of the participation of peacekeepers from autocracies on UN peacekeeping.
 

@@ -20,6 +20,11 @@ Annual Conference, 2021 (Accepted 2020, cancelled due to COVID-19)
 - "After Cooperation: The Rise and Fall of United Nations Peace Operations"
 
 ### American Political Science Association (APSA)
+Annual Conference- Philadelphia, PA, September 2024
+
+- "Who Trains Peacekeepers? Measuring the Effects of Foreign Police Training"
+- "The Domestic Benefits of UN Peacekeeping Homecoming: How Deployment Diffuses Norms"
+
 Annual Conference- Los Angeles, CA, August-September 2023
 
 - "Autocrats Keeping Peace? An Analysis of the Impact of Autocratic T/PCCs on Peace Operations"

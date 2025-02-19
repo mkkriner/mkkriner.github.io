@@ -57,7 +57,9 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               :
+bluesky:
+  username               : &bluesky
 facebook:
   username               :
   app_id                 :
@@ -80,10 +82,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Mike Kriner"
+  name             : "Mike Kriner, PhD"
   avatar           : "headshot.png"
-  bio              : "PhD Candidate"
-  location         : "Boston, MA"
+  bio              : "Statistician"
+  location         : "Washington, DC"
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=B3GJMqIAAAAJ&hl=en&authuser=1"
@@ -109,7 +111,8 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "@KrinerMike"
+  twitter          :
+  bluesky:         : @mkriner.bsky.social
   vine             :
   weibo            :
   xing             :
