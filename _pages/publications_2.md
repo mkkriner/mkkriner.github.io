@@ -6,7 +6,9 @@ author_profile: true
 ---
 
 ### Academic Publications
-Cameron Mailhot, **Michael Kriner**, and Sabrina Karim. (2022). "International involvement in (re-) building police forces: a comparison of US and UN police assistance programs around the world" <i>Small Wars and Insurgencies</i> 33(4-5) [link](https://www.tandfonline.com/doi/abs/10.1080/09592318.2022.2041367).
+Michael Kriner and Christopher Way (2025). "The Adoption of Paid Sick Leave in US States" <i>State Politics and Policy Quarterly</i> [link](https://doi.org/10.1017/spq.2024.33).
+
+Cameron Mailhot, **Michael Kriner**, and Sabrina Karim (2022). "International involvement in (re-) building police forces: a comparison of US and UN police assistance programs around the world" <i>Small Wars and Insurgencies</i> 33(4-5) [link](https://www.tandfonline.com/doi/abs/10.1080/09592318.2022.2041367).
 
 
 ### Policy/Public Facing
@@ -15,10 +17,6 @@ Michael Kriner. ["Peacekeepers and Civilian Protection: Who Does the Protecting?
 Niloy Ranjan Biswas, Lailufar Yasmin, Sabrina Karim, Roya Izadi, Sara Fox, Cameron Mailhot, **Michael Kriner**, Priscilla Torres, Zinab Attai, Heather Huhtanen. (2023) "Bangladesh Armed Forces MOWIP Report" Geneva Centre for Security Sector Governance [link](https://www.dcaf.ch/bangladesh-armed-forces-mowip-report).
 
 Louise Olsson, Megan Shannon, Anna Marie Obermeier, Birthe Einen, Ida Rødningen, Nora Stai, Emily Jackson, and Andreas Forø Tollefsen, Sabrina Karim, Taylor Vincent, Cameron Mailhot, Priscilla Torres, **Michael Kriner**. (2022) "Norwegian Armed Forces MOWIP Report" Geneva Centre for Security Sector Governance [link](https://www.dcaf.ch/norwegian-armed-forces-mowip-report).
-
-
-### Accepted
-Michael Kriner, and Christopher Way. "The Spread of Paid Sick Leave in the U.S." at *State Politics and Policy Quarterly*
 
 
 ### In Progress
