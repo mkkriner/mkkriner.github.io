@@ -22,7 +22,7 @@ Louise Olsson, Megan Shannon, Anna Marie Obermeier, Birthe Einen, Ida Rødningen
 
 
 ### In Progress
-Michael Kriner. "Autocrats Keeping Peace? Autocratic Contributions to UN Peace Operations and Civilian Protection" Updated [August 2024](/files/autocrats_pk.pdf)
+Michael Kriner. "Regime Type and Civilian Protection in UN Peace Operations" Updated [June 2025](/files/regime_civ_protection.pdf)
 
 Michael Kriner, Cameron Mailhot, Roya Izadi, Laura Huber, Lindsey Pruett, Priscilla Torres, Sara Fox, and Sabrina Karim. "The Domestic Benefits of UN Peacekeeping Homecoming: How Deployment Diffuses Norms"
 
